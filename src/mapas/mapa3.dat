@@ -1,0 +1,27 @@
+9
+1, ponto1
+2, ponto2
+3, ponto3
+4, ponto4
+5, ponto5
+6, ponto6
+7, ponto7
+8, ponto8
+9, ponto9
+16
+1, caminho, caminho1, 1, 2, true, 15, 40
+2, caminho, caminho2, 1, 7, true, 13, 85
+3, caminho, caminho3, 1, 8, false, 16, 80
+4, caminho, caminho4, 2, 3, true, 4, 190
+5, caminho, caminho5, 2, 4, true, 15, 160
+6, caminho, caminho6, 7, 4, false, 3, 190
+7, caminho, caminho7, 4, 5, true, 20, 40
+8, caminho, caminho8, 4, 6, true, 1, 250
+9, ponte, ponte1, 5, 8, true, 5, 300
+10, ponte, ponte2, 5, 6, false, 15, 270
+11, caminho, caminho9, 5, 7, true, 35, 30
+12, caminho, caminho10, 6, 3, true, 10, 60
+13, caminho, caminho11, 6, 8, true, 1, 200
+14, ponte, ponte3, 8, 7, true, 3, 100
+15, ponte, ponte4, 3, 9, true, 2, 60
+16, caminho, caminho12, 1, 9, 7, 140
